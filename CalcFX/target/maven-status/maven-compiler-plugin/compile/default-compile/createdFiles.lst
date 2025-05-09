@@ -1,0 +1,12 @@
+pe\edu\upeu\calcfx\repository\CalcRepository.class
+pe\edu\upeu\calcfx\modelo\Producto.class
+pe\edu\upeu\calcfx\modelo\Venta.class
+pe\edu\upeu\calcfx\control\CalcfxControl.class
+pe\edu\upeu\calcfx\Application.class
+pe\edu\upeu\calcfx\control\CalcfxControl$1.class
+pe\edu\upeu\calcfx\modelo\CalcTO.class
+pe\edu\upeu\calcfx\modelo\VentaDetalle.class
+pe\edu\upeu\calcfx\servicio\CalcServicioImp.class
+pe\edu\upeu\calcfx\modelo\Categoria.class
+pe\edu\upeu\calcfx\servicio\CalcServicioI.class
+pe\edu\upeu\calcfx\CalcFxApplication.class
